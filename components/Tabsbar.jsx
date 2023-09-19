@@ -6,7 +6,7 @@ const Tabsbar = () => {
     <div className={styles.tabs}>
       <Tab icon="/react_icon.svg" filename="home.jsx" path="/" />
       <Tab icon="/html_icon.svg" filename="sobre.html" path="/about" />
-      <Tab icon="/css_icon.svg" filename="contatos.css" path="/contact" />
+      <Tab icon="/css_icon.svg" filename="contato.css" path="/contact" />
       <Tab icon="/python.svg" filename="projetos.py" path="/projects" />
     </div>
   );
