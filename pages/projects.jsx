@@ -5,7 +5,7 @@ import styles from "../styles/ProjectsPage.module.css";
 const ProjectsPage = ({ projects }) => {
   return (
     <>
-      <h1>Em breve!</h1>
+      <h2>Em breve!</h2>
     </>
   );
 };
