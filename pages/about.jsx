@@ -1,11 +1,13 @@
-import AboutCode from "../components/AboutCode";
-import styles from "../styles/AboutCode.css";
+import ContactCode from "../components/ContactCode";
+import Illustration from "../components/Illustration";
+import ProjectCard from "../components/ProjectCard";
 
 const AboutPage = () => {
   return (
-    <h3>
-      <AboutCode></AboutCode>
-    </h3>
+    <div>
+      <h2>Sobre Mim</h2>
+      <br />
+    </div>
   );
 };
 
