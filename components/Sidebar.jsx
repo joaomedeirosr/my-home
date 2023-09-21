@@ -16,7 +16,7 @@ const sidebarTopItems = [
   },
   {
     Icon: GithubIcon,
-    path: "https://www.github.com/joaomedeirosr",
+    path: "https://github.com/joaomedeirosr/my-home",
   },
   {
     Icon: CodeIcon,
