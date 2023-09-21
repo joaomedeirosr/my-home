@@ -4,7 +4,6 @@ import styles from "../styles/AboutCode.css";
 const AboutPage = () => {
   return (
     <h3>
-      Sobre mim lllllll
       <AboutCode></AboutCode>
     </h3>
   );
